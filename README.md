@@ -1,7 +1,4 @@
- 👋 Hi, I’m @AlenElias
-  👀 I’m interested in Java 
- 🌱 I’m currently learning Springboot
- 📫 reach me on linkedin- www.linkedin.com/in/alenelias
+Employee management systemn using Java,Hibernate,Mysql
 
 
 <!---
